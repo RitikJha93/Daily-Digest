@@ -11,17 +11,11 @@ DailyDigest is a realtime news application to keep you updated
 
 ## Screenshots
 
-Welcome Screen             |  Home Screen
-:-------------------------:|:-------------------------:
-![]("/assets/images/welcome.jpeg")  |  ![]("/assets/images/news_home_screen.jpeg)
+<img src="/assets/screenshots/welcome.jpeg" width="200" /> <img src="/assets/screenshots/news_home_screen.jpeg" width="200" />
 
-News Details Screen             |  Discover Screen
-:-------------------------:|:-------------------------:
-![]("/assets/images/news_detail_screen.jpeg")  |  ![]("/assets/images/discover_screen.jpeg)
+<img src="/assets/screenshots/news_details_screen.jpeg" width="200" /> <img src="/assets/screenshots/discover_screen_checked.jpeg" width="200" />
 
-Search Screen             |  Saved Screen
-:-------------------------:|:-------------------------:
-![]("/assets/images/search_screen.jpeg")  |  ![]("/assets/images/saved_screen.jpeg)
+<img src="/assets/screenshots/search_screen.jpeg" width="200" /> <img src="/assets/screenshots/saved_screen.jpeg" width="200" />
 
 ## Installation
 
@@ -33,3 +27,4 @@ git clone https://github.com/RitikJha93/Letter-Link.git
 cd wordle
 
 npx expo start
+```
