@@ -22,9 +22,11 @@ DailyDigest is a realtime news application to keep you updated
 ### Make sure you have react native installed on your system
 
 ```
-git clone https://github.com/RitikJha93/Letter-Link.git
-
-cd wordle
-
+git clone https://github.com/RitikJha93/Daily-Digest.git
+```
+```
+cd daily-digest
+```
+```
 npx expo start
 ```
